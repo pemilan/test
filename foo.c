@@ -14,6 +14,6 @@ printf("fifth line");
 printf();
 printf();
 printf();
-
+printf("Master commit");
 }
 
