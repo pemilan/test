@@ -14,11 +14,15 @@ printf("fifth line");
 printf();
 printf();
 printf();
+printf("Master commit");
+printf("Develop Branch");
+
 printf("Develop Branch1");
 printf("Develop commit");
 printf("foo");
 printf("try to merge");
 printf("try to merge to master");
 printf("Master Branch");
+
 }
 
