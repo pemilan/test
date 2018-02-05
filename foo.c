@@ -12,5 +12,8 @@ printf("fourth line");
 printf("fifth line");
 
 printf();
+printf();
+printf();
+
 }
 
