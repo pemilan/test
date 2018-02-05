@@ -10,5 +10,7 @@ printf("second line");
 printf("third line");
 printf("fourth line");
 printf("fifth line");
+
+printf();
 }
 
