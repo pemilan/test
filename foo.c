@@ -17,5 +17,6 @@ printf();
 printf("Develop Branch1");
 printf("Develop commit");
 printf("foo")
+printf("try to merge")
 }
 
