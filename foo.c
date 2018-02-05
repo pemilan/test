@@ -14,7 +14,7 @@ printf("fifth line");
 printf();
 printf();
 printf();
-printf("Develop Branch1")
-printf("Develop commit")
+printf("Develop Branch1");
+printf("Develop commit");
 }
 
