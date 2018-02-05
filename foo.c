@@ -19,5 +19,6 @@ printf("Develop commit");
 printf("foo");
 printf("try to merge");
 printf("try to merge to master");
+printf("Master Branch");
 }
 
