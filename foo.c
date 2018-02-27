@@ -10,10 +10,8 @@ printf("second line\n");
 printf("third line\n");
 printf("fourth line\n");
 printf("fifth line\n");
-
 printf("Master commit\n");
 printf("Develop Branch\n");
-
 printf("Develop Branch1\n");
 printf("Develop commit\n");
 printf("foo\n");
