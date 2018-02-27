@@ -1,11 +1,18 @@
 #include <stdio.h>
 int foo(int i) {
- return i;   
+ return i+1;   
 }
 
+int end()
+{
+   printf("end \n");
+}
+
+int g;
 int main()  {
 int a=foo(3);
-printf("function foo() a=%d\n",a);
+g=foo(a);
+printf("function foo() a=%d g=%d\n",a,g);
 printf("second line\n");
 printf("third line\n");
 printf("fourth line\n");
@@ -18,6 +25,6 @@ printf("foo\n");
 printf("try to merge\n");
 printf("try to merge to master\n");
 printf("Master Branch\n");
-
+end();
 }
 
