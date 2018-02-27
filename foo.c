@@ -3,9 +3,11 @@ int foo(int i) {
  return i+1;   
 }
 
-int end()
+int end(int x)
 {
-   printf("end \n");
+    int a,b,c,d,e,f;
+   printf("end x=%d\n",x);
+   a=b=c=d=e=f=x;
 }
 
 int g;
@@ -25,6 +27,6 @@ printf("foo\n");
 printf("try to merge\n");
 printf("try to merge to master\n");
 printf("Master Branch\n");
-end();
+end(g);
 }
 
