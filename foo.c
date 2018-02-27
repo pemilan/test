@@ -19,11 +19,5 @@ printf("try to merge\n");
 printf("try to merge to master\n");
 printf("Master Branch\n");
 
-
-//no file
-//no
-//pppppp
-
-
 }
 
