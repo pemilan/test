@@ -112,5 +112,5 @@ int main(void)
    cout << endl;
    return 0;
 }
-//local zmena
+//local zmena 1
 //remote zmena 1
