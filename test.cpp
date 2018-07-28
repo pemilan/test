@@ -113,4 +113,4 @@ int main(void)
    return 0;
 }
 //local zmena
-//remote zmena
+//remote zmena 1
